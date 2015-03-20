@@ -1,0 +1,5 @@
+1. Schreibe eine Schleife, die alle geraden Zahlen ausgibt
+2. was sind die wesentlichen Unterschiede zwischen C und Java
+3. schreibe ein Programm, was eine Zahl kriegt und in binaer umwandelt
+4. was sind logische und was sind arithmetische verkuepfungen
+5. Was ist die Aufgabe der CursorTaste, Strg-Taste und ALT-Taste
